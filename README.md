@@ -1,7 +1,7 @@
 # Web3 Indexer with Apibara
 
 This repository uses [Apibara](https://github.com/apibara/apibara) to index web3 data.
-
+We are following instructions from [How to index smart contract events on StarkNet](https://www.apibara.com/docs/tutorials/indexing-starknet-nft-events).
 
 ## Getting Started
 
